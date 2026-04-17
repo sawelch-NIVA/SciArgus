@@ -1,26 +1,29 @@
-#Machine Learning and AI
-Research on the use of machine learning and AI to advance the measurement and monitoring of biodiversity and conservation efforts. This includes the development of new foundation models across modalities (such as text, remote sensing, and images) with conservation applications, as well as novel benchmarks that measure AI capabilities in this field. Additionally, we welcome thought leadership and perspectives on the promises and perils of integrating AI into conservation practices.
+#Aquatic Pollution
+Research on the pollution of aquatic environments by mostly anthropogenic stressors - principally chemicals, but also ionising/em radiation, land use changes, and other human impacts. Avoid studies that just repeat OECD tests; I'm most interested in modelled/analysed pollution in and around Europe. Papers can cover environmental risk, legislation, economics, exposure, etc. Effects and metabolic stuff is less interesting, but can be included if it's particularly novel.
 
-#Causal Impact Estimation
-Impact evaluations of conservation interventions and their resulting biodiversity outcomes. Submissions should encompass both methodological developments and practical applications, with a particular interest in spatial impact evaluation and the use of causal machine learning (ML).
+#Aggegate Exposure Pathways
+Papers that explicitly use the concept of Aggregate Exposure Pathways to systematised and weight-of-evidence assess routes and important of exposure to a given stressor to an organism or organisms.
 
-#Biodiversity Monitoring
-Research on in situ biodiversity monitoring utilizing technologies such as acoustics, environmental DNA (eDNA), and camera traps. There is a specific focus on multi-modal approaches used simultaneously to quantify integrated biodiversity patterns at large spatial scales.
+#Effective Environmentalism
+Papers that use robust methods to compare the positive impacts of various environmental interventions or mitigations against their cost, and determine optimal courses of action.
 
-#Remote Sensing of Biodiversity
-Research into the application of remote sensing for the quantification of biodiversity and ecosystems at both local and global scales. This encompasses all sensor technologies—including drones, airborne and satellite LiDAR, radar, and optical sensors (particularly hyperspectral). Topics should cover the development of new sensor technologies, the creation of novel algorithms for ecosystem monitoring, and advancements in leveraging existing sensors to derive critical biodiversity information.
+#Environmental Policy
+Changes to and reviews of environmental policy, especially in the areas of EU pollution-relevant legislation (WFD, Biocides Directive, etc.)
 
-#Conservation Science
-Thought leadership and perspectives on the current state of conservation science, including evaluations of what is and is not working in global implementation and policy. This section welcomes reflections on the directions taken by conservation actors (governments, NGOs, and private entities), analyses of past successes and failures, and strategic visions for the future of the field.
+#Rewilding and Restoration Ecology
+Research focusing on the reintroduction of important/charismatic species, ecosystems, and the effects of these in environmental indices.
 
-#Biodiversity Markets
-Research discussing the development and application of biodiversity markets, including offsets, biodiversity credits, voluntary markets, and compliance markets. We seek critiques of how these markets are evolving, perspectives on the prerequisites for well-functioning markets, and reviews of both existing markets and the structural conditions required for their success.
+#Environmental Data Science and Statistics
+Manucripts introducing novel or best practice approaches to deal with environmental data, especially when combined with one of the above topics. Pipelines, tools, practices, formats, FAIR stuff, etc.
 
-#Ecological Condition
-Papers discussing the concept of ecological condition and its quantification. This includes the introduction of new datasets, critical analyses of existing data, and applications of these datasets to novel questions at global or local scales (provided local datasets are used to generate new, scalable frameworks or approaches). We also welcome discussions on how ecological condition is operationalized and how it feeds into global agreements, such as the Global Biodiversity Framework, or efforts to quantify and commoditize biodiversity.
+#Nature-based Solutions and Infrastructure
+Bioremediation, water treatment wetlands, etc.
 
-#Global Biodiversity Data
-Papers that analyze global biodiversity datasets to generate new insights into macro-ecological patterns and processes. This section also includes research detailing the development of new global biodiversity datasets or novel biodiversity indicators.
+#R packages and Shiny applications
+Novel R packages and Shiny applications, ideally for dealing with environmental issues.
 
-#Savanna and Grassland Ecology
-Papers contributing significant information to our fundamental understanding of savanna and grassland ecology, including their critical role in the broader Earth system. Submissions should highlight the unique functioning of these ecosystems and how they are influenced by natural and anthropogenic disturbances, such as fire and herbivory.
+#New Urbanism and Urban Nature
+Research on the relationship between urbanism and urban planning, nature, greening, and so on.
+
+#Radioecology
+Research on the effects of ionising radiation on ecosystems, especially in Chernobyl and Fukushima.
