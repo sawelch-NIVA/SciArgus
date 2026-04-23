@@ -1,5 +1,11 @@
 #Aquatic Pollution
-Research on the pollution of aquatic environments by mostly anthropogenic stressors - principally chemicals, but also ionising/em radiation, land use changes, and other human impacts. Avoid studies that just repeat OECD tests; I'm most interested in modelled/analysed pollution in and around Europe. Papers can cover environmental risk, legislation, economics, exposure, etc. Effects and metabolic stuff is less interesting, but can be included if it's particularly novel.
+Research on the pollution of aquatic environments by mostly chemical stressors. Avoid studies that just repeat OECD tests; I'm most interested in modelled/analysed pollution in and around Europe. Papers can cover environmental risk, legislation, economics, exposure, etc. Effects and metabolic stuff is less interesting, but can be included if it's particularly novel.
+
+#Copper Pollution
+Pollution of arctic and near-arctic ecosystems with copper, either in its elemental form or copper-containing compounds. Copper sources, behaviour, fate, occurence, biogeochemistry, etc. 
+
+#Copper Sources and Emissions
+Research on where copper is used, projections for future use, models, assessments and so on of how copper reaches the natural environment from anthropogenic and natural sources.
 
 #Aggegate Exposure Pathways
 Papers that explicitly use the concept of Aggregate Exposure Pathways to systematised and weight-of-evidence assess routes and important of exposure to a given stressor to an organism or organisms.
